@@ -9,8 +9,8 @@
 **Link:** [Click on LoopLab Social](https://11samo.github.io/multipage-theme/)
 
 ---
-![Screenshot1 of site](screen1.jpg)
-![Screenshot2 of site](screen2.jpg)
-![Screenshot3 of site](screen3.jpg)
-![Screenshot4 of site](screen4.jpg)
-![Screenshot5 of site](screen5.jpg)
+![Screenshot1 of site](screenshots/screen1.jpg)
+![Screenshot2 of site](screenshots/screen2.jpg)
+![Screenshot3 of site](screenshots/screen3.jpg)
+![Screenshot4 of site](screenshots/screen4.jpg)
+![Screenshot5 of site](screenshots/screen5.jpg)
