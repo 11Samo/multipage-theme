@@ -6,7 +6,7 @@
 - Bootstrap
 
 ---
-**Link:** [Click on LoopLab Social](https://11samo.github.io/multipage-theme/)
+**Link:** [Click on Multipage](https://11samo.github.io/multipage-theme/)
 
 ---
 ![Screenshot1 of site](screenshots/screen1.jpg)
